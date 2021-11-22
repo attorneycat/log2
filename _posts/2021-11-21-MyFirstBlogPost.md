@@ -5,9 +5,9 @@ title: My first blog post
 
 # My First Blog Post
 
-| Day | Notes |
-| --- | ----- |
-| Mon |       |
+| Day | Notes           |
+| --- | -----           |
+| Mon |  Go to work     |
 | Tue |       |
 | Wed |       |
 | Thu |       |
@@ -18,6 +18,7 @@ title: My first blog post
 
 ```c++
 int main() {
+    std::cout << "ILY Cat" << std::endl;
     return 0;
 }
 ```
